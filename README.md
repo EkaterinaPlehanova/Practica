@@ -27,17 +27,17 @@
 
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/01/main.cpp">1. Приближенное значение Пи </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/02/main.go">2. Кислород </a> | <img src="./img/go.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/03/main.cpp">3. Частное   </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/04/main.go">4. Произведение </a> | <img src="./img/go.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/05/main.cpp">5. Индекс массы тела </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/06/main.go">6. Банкомат </a> | <img src="./img/go.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/07/main.cpp">7. Максимум из двух чисел </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/08/main.go">8. Максимум из трёх чисел  </a> | <img src="./img/go.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/09/main.cpp">9. Длина гипотенузы </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/10/main.go">10. Дерево решений </a> | <img src="./img/go.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/11/main.cpp">11. Ближайшая из трёх точек </a> | <img src="./img/cpp.png" width="50">  |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/12/main.go">12. Гипотеза Коллатца </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/01/main.cpp">1. Функиия. Простое число </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/02/main.cpp">2. Функиия. Выход из лабиринта </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/03/main.cpp">3. Функиия. Сортировка по количеству единиц  </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/04/main.cpp">4. Функиия. Сумма дробей  </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/05/main.cpp">5. Структура. Комплексное число </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/06/main.cpp">6. Список студентов </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/07/main.cpp">7. Кандидаты на отчисление </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/08/main.go">8. Функиия. Палиндром с игнорированием  </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/09/main.cpp">9. Функиия. Счастливый билет </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/10/main.go">10. Функиия. Сдвиг элементов массива </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/11/main.cpp">11. Функиия. Валидатор судоку  </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/12/main.go">12. Функиия. Сапёр(поле)  </a> | <img src="./img/go.png" width="50">  |
 
 
