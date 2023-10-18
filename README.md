@@ -41,3 +41,15 @@
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/12/main.go">12. Функиия. Сапёр(поле)  </a> | <img src="./img/go.png" width="50">  |
 
 
+|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/01/main.cpp">1. Объединить отсортированные последовательности </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/02/main.cpp">2. Валидатор скобочной последовательности </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/03/main.cpp">3. Обратная польская нотация  </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/04/main.cpp">4. Общие слова в последовательностях  </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/05/main.cpp">5. Самое частое слово </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/06/main.cpp">6. Баланс пользователя </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/07/main.cpp">7. Какое следующее слово </a> | <img src="./img/cpp.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/08/main.go">8. Уникальное число </a> | <img src="./img/go.png" width="50">  |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/09/main.go">9. Подходящая пара чисел </a> | <img src="./img/go.png" width="50">  |
+
+
