@@ -4,7 +4,7 @@
 
 |[Контест 1](https://contest.yandex.ru/contest/52142/problems/) |  |
 | --- | :-: |
-|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/01/main.cpp">1. Приближенное значение Пи </a> | ![](./img/cpp.png) |
+|<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_01/01/main.cpp">1. Приближенное значение Пи </a> | <img src="./img/cpp.png" width="500">  |
 | [2. Кислород](./contest_01/02/main.go) |  ![](./img/go.png) |
 | [3. Частное](./contest_01/03/main.cpp) | ![](./img/cpp.png) |
 | ... | ... |
