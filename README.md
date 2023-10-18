@@ -27,6 +27,7 @@
 
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/01/main.cpp">1. Функиия. Простое число </a> | <img src="./img/cpp.png" width="50">  |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/02/main.cpp">2. Функиия. Выход из лабиринта </a> | <img src="./img/go.png" width="50">  |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/03/main.cpp">3. Функиия. Сортировка по количеству единиц  </a> | <img src="./img/cpp.png" width="50">  |
@@ -42,6 +43,7 @@
 
 
 |[Контест 2](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/01/main.cpp">1. Объединить отсортированные последовательности </a> | <img src="./img/cpp.png" width="50">  |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/02/main.cpp">2. Валидатор скобочной последовательности </a> | <img src="./img/cpp.png" width="50">  |
 |<a href="https://github.com/EkaterinaPlehanova/Practica/blob/main/contest_02/03/main.cpp">3. Обратная польская нотация  </a> | <img src="./img/cpp.png" width="50">  |
